@@ -10,6 +10,7 @@ def generate_love_letter():
     print("С любовью,")
     print("[Твое имя]")
 
+
 def main():
     generate_love_letter()
 
